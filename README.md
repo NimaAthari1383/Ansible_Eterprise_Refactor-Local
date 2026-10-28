@@ -72,4 +72,3 @@ make build-ee EE_IMAGE=nima-platform-ee:1.0.0 ANSIBLE_BUILDER=/opt/ansible-build
 ```
 
 See `docs/11-offline-ee-collections.md`.
-# Ansible_Eterprise_Refactor-Local
